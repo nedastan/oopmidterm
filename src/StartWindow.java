@@ -63,7 +63,7 @@ public class StartWindow extends JFrame {
         getContentPane().add(buttonsC);
 
         System.out.print('\n');
-        System.out.println("PacMan Developed By : Adil Zhumgalbekov");
+        System.out.println("PacMan Developed By : Dastan Asanov");
         System.out.println("Inspired By Armin Kazemi");
         System.out.println("-----------------------------------------");
         setVisible(true);
