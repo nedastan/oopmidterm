@@ -5,6 +5,8 @@ Ala-too PacMan midterm project
 
 Dastan Asanov's midterm project Com19 OOP
 
+Java
+
 Contact person:
 
 Dastan Asanov dastan.asanov@iaau.edu.kg +996702678555
